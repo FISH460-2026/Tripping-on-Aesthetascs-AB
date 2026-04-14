@@ -1,4 +1,3 @@
-## A Quarto Manuscript Template
+## Thermal Stress and Crab Chemical Cues
 
-This is a template repo for generating a manuscript from Quarto that accompanies the tutorial at: [Quarto Manuscripts: RStudio](https://quarto.org/docs/manuscripts/authoring/rstudio.html)
-
+An experiment studying the effect of thermal stress on chemical cue reception and response time in the hairy shorecrab _Hemigrapsis oregonensis_.
